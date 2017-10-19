@@ -1,4 +1,2 @@
 ora="tik" + "tak"
-print ("Mennyi az idő:", ora*3)
-
-kjzkjgf
+print ("Mennyi az idő:", ora*4)
