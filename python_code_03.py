@@ -1,0 +1,2 @@
+s="megszentségteleníthetetlenségeskedéseitekért"
+len(s)
